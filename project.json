@@ -1,0 +1,26 @@
+{
+  "overview": "BIO-Pak is a modern mobile showcase app for a sustainable packaging startup. It presents the company's biodegradable products made from sugarcane bagasse, manufacturing process, machinery, team, and contact info — all wrapped in a beautiful green and earthy design with smooth animations.",
+  "features": [
+    "Home screen with hero section, tagline, and animated eco icons",
+    "Product overview with cards (bags, containers, wraps)",
+    "Product features with animated icon cards",
+    "9-step manufacturing process timeline with scroll animations",
+    "Machinery showcase with expandable cards",
+    "7 advantages with animated icon grid",
+    "Team profiles with cartoon avatars and glow effects",
+    "Contact screen with Call, WhatsApp, and Email action buttons",
+    "Bottom navigation with smooth screen transitions",
+    "Green, white, and earthy responsive mobile-first design"
+  ],
+  "category": "showcase",
+  "tags": [
+    "eco-friendly",
+    "packaging",
+    "startup",
+    "mobile",
+    "showcase",
+    "sustainability",
+    "biodegradable"
+  ],
+  "last_updated": "2026-04-10T16:39:21.661Z"
+}
